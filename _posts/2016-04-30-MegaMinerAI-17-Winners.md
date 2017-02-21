@@ -13,7 +13,7 @@ Sorry for the delay, but here is the official announcement of the winners for Me
 ### 2nd - fast-arachnids-get-launched-on-raging-degenerates
 
 ### 3rd - Chios
-
+<!--more-->
 ## Global Tournament:
 
 ### 1st - The Goldman Clause (Brian Goldman graciously supplied his code on [GitHub](https://github.com/brianwgoldman/MegaMinerAI-17-Spiders))
